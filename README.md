@@ -4,7 +4,7 @@ Trois applis indépendantes : installe seulement celles que tu veux. Si Lumen es
 
 | Appli | Version stable | Version bêta |
 |---|---|---|
-| **Lumen** · launcher, bibliothèque unifiée | — | [4.0 bêta 39](https://github.com/miraiijo/lumen-releases/releases/download/channel/Lumen-beta.apk) |
+| **Lumen** · launcher, bibliothèque unifiée | — | [4.0 bêta 40](https://github.com/miraiijo/lumen-releases/releases/download/channel/Lumen-beta.apk) |
 | **LumenTube** · client YouTube sans publicité (non officiel) | — | [1.0 bêta 10](https://github.com/miraiijo/lumen-releases/releases/download/channel/LumenTube-beta.apk) |
 | **LumenIPTV** · lecteur IPTV (M3U, Xtream Codes, guide XMLTV), aucune chaîne fournie | — | [1.0 bêta 16](https://github.com/miraiijo/lumen-releases/releases/download/channel/LumenIPTV-beta.apk) |
 
