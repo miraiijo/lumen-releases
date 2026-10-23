@@ -1,12 +1,12 @@
-# Applis Lumen pour Android TV
+# Applis Mirazuki pour Android TV
 
-Trois applis indépendantes : installe seulement celles que tu veux. Si Lumen est installé, il propose aussi les deux autres dans **Réglages › Mises à jour et sauvegarde › Applis Lumen**, et affiche leurs rangées à l'accueil.
+Trois applis indépendantes : installe seulement celles que tu veux. Si Mirazuki est installé, il propose aussi les deux autres dans **Réglages › Mises à jour et sauvegarde › Applis Mirazuki**, et affiche leurs rangées à l'accueil.
 
 | Appli | Version stable | Version bêta |
 |---|---|---|
-| **Lumen** · launcher, bibliothèque unifiée | — | [4.0 bêta 41](https://github.com/miraiijo/lumen-releases/releases/download/channel/Lumen-beta.apk) |
-| **LumenTube** · client YouTube sans publicité (non officiel) | — | [1.0 bêta 12](https://github.com/miraiijo/lumen-releases/releases/download/channel/LumenTube-beta.apk) |
-| **LumenIPTV** · lecteur IPTV (M3U, Xtream Codes, guide XMLTV), aucune chaîne fournie | — | [1.0 bêta 19](https://github.com/miraiijo/lumen-releases/releases/download/channel/LumenIPTV-beta.apk) |
+| **Mirazuki** · launcher, bibliothèque unifiée | — | [4.0 bêta 42](https://github.com/miraiijo/mirazuki-releases/releases/download/channel/Mirazuki-beta.apk) |
+| **Mirazuki Tube** · client YouTube sans publicité (non officiel) | — | [1.0 bêta 12](https://github.com/miraiijo/mirazuki-releases/releases/download/channel/MirazukiTube-beta.apk) |
+| **Mirazuki IPTV** · lecteur IPTV (M3U, Xtream Codes, guide XMLTV), aucune chaîne fournie | — | [1.0 bêta 19](https://github.com/miraiijo/mirazuki-releases/releases/download/channel/MirazukiIPTV-beta.apk) |
 
 Les liens sont fixes et donnent toujours la dernière version : pratique avec l'appli **Downloader** sur la box.
 
